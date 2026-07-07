@@ -1,0 +1,1 @@
+# CLSigma_TOE_Zero_Spectral_Operator_Physics.sh_20260707
